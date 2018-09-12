@@ -1,3 +1,3 @@
 #代理gcr.io上的镜像
 
-FROM gcr.io/kubernetes-e2e-test-images/serve-hostname-amd64:1.0
+FROM gcr.io/kubernetes-e2e-test-images/netexec-amd64:1.0
